@@ -53,3 +53,12 @@ The project includes a dummy menu section simulating a web interface. The system
   - Random Forest for heart disease prediction.
 - **Preprocessing Tools**: Label encoding, one-hot encoding, standardization.
 
+
+![image](https://github.com/user-attachments/assets/1bd85235-c5c5-41d5-9a84-8c304f34e875)
+![image](https://github.com/user-attachments/assets/d5a6b4b7-7561-4e9d-a6ba-fe66f305e0b6)
+![image](https://github.com/user-attachments/assets/e866cff3-ae4e-4a02-a419-607064e51337)
+![image](https://github.com/user-attachments/assets/bfc58f3a-ea72-4c07-bf53-d912c0d51ffd)
+
+
+
+
